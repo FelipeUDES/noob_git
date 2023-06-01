@@ -1,3 +1,3 @@
 #Curso de Git
 
-Curso de Git noob
+Curso de Git noob.
